@@ -11,7 +11,16 @@ public class Ex02 {
 		 * */
 	System.out.println("H\ne\nl\nlo \njava");
 	System.out.println("1\t1234567\t12345678\t12");
-	System.out.println("test \"123"\ \\456" );
+	System.out.println("test \"123\" \\123");
+//	큰따옴표 앞에 /를 붙이면 "의 기능없이 표현 할 수 있다
+	
+	
+	
+	
+			
+			
+			
+			
 	}
 
 }
